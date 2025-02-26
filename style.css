@@ -14,4 +14,9 @@ body {
 .imagem , .imagemComputador{
     width: 200px;
     background-color: blue;
+    opacity: 0.5;
+}
+
+.imagem:hover {
+    opacity: 1;
 }
